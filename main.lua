@@ -1096,15 +1096,15 @@ end
 
 local themes = {
     Default = {
-        ["Accent"] = Color3.fromRGB(113, 93, 133),
-        ["Window Background"] = Color3.fromRGB(30, 30, 30),
+        ["Accent"] = Color3.fromRGB(115, 168, 224),
+        ["Window Background"] = Color3.fromRGB(37, 37, 37),
         ["Window Border"] = Color3.fromRGB(45, 45, 45),
-        ["Tab Background"] = Color3.fromRGB(20, 20, 20),
+        ["Tab Background"] = Color3.fromRGB(29, 29, 29),
         ["Tab Border"] = Color3.fromRGB(45, 45, 45),
         ["Tab Toggle Background"] = Color3.fromRGB(28, 28, 28),
         ["Section Background"] = Color3.fromRGB(18, 18, 18),
         ["Section Border"] = Color3.fromRGB(35, 35, 35),
-        ["Text"] = Color3.fromRGB(200, 200, 200),
+        ["Text"] = Color3.fromRGB(222, 222, 222),
         ["Disabled Text"] = Color3.fromRGB(110, 110, 110),
         ["Object Background"] = Color3.fromRGB(25, 25, 25),
         ["Object Border"] = Color3.fromRGB(35, 35, 35),
