@@ -2389,7 +2389,7 @@ function library.createcolorpicker(default, defaultalpha, parent, count, flag, c
                 library.flags[flag] = utility.rgba(hsv.r * 255, hsv.g * 255, hsv.b * 255, alpha)
             end
 
-            callback(utility.rgba(hsv.r * 255, hsv.g * 255, hsv.b * 255, alpha))
+            callback(utility.rgba(hsv.r * 255, hsv.g * 255, hsv.b * 255), alpha)
         end
     end
 
